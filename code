@@ -1,0 +1,9 @@
+class a
+{
+    func b (n: Int, m: Int) -> Int {
+    return 1
+
+    }
+}
+
+println(a.b(1,1))
